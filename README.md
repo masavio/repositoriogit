@@ -7,6 +7,6 @@ repositoriogit
 <title>Untitled Document</title>
 </head>
 <body>
-Repositorio de aprendizagem. Teste de modificação de arquivo local
+Repositorio de aprendizagem
 </body>
 </html>
